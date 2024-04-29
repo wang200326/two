@@ -1,0 +1,41 @@
+/**
+ *loading我自己
+ */
+$('#loading1').click(function(){
+    var load = new Loading();
+    load.init({
+        target: this
+    });
+    load.start();
+    setTimeout(function() {
+        load.stop();
+    }, 3000)
+});
+
+
+/**
+ *loading指定div(#loading-content)
+ */
+$('#loading2').click(function(){
+    var load = new Loading();
+    load.init({
+        target: "#loading-content"
+    });
+    load.start();
+    setTimeout(function() {
+        load.stop();
+    }, 3000)
+});
+
+
+/**
+ *loading全屏
+ */
+$('#loading3').click(function(){
+    var load = new Loading();
+    load.init();
+    load.start();
+    setTimeout(function() {
+        load.stop();
+    }, 30000)
+});

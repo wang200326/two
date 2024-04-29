@@ -1,0 +1,14 @@
+[
+  {"short":"CEO","full":"Chief Executive Officer","position":"首席执行官","duty":"行政总裁"},
+  {"short":"COO","full":"Chief Operated Officer","position":"首席运营官","duty":"运营团队负责人"},
+  {"short":"CTO","full":"Chief Technology Officer","position":"首席技术官","duty":"技术部门负责人"},
+  {"short":"PM","full":"Product Manager","position":"产品经理","duty":"产品构想、框架设计、用户调研等"},
+  {"short":"RD","full":"Research and Development","position":"研发工程师","duty":"偏向于后端的技术实现"},
+  {"short":"UE","full":"User Experience","position":"用户体验师","duty":"也称UX，负责改善用户体验"},
+  {"short":"UI","full":"User Interface","position":"用户界面设计师","duty":"界面风格、配色方案、交互设计"},
+  {"short":"FE","full":"Front End","position":"前端工程师","duty":"前端开发"},
+  {"short":"BE","full":"Back End","position":"后端工程师","duty":"后端开发"},
+  {"short":"QA","full":"Quality Assurance","position":"质量保证工程师","duty":"产品测试，性能检测"},
+  {"short":"DBA","full":"Database Administrator","position":"数据库管理员","duty":"管理和维护数据库服务器"},
+  {"short":"OP","full":"Operations","position":"运维工程师","duty":"保障项目后期的运行与维护"}
+]

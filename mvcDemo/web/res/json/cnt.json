@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "msg": "查询成功",
+  "rows": [
+    {"name":"student","number":37},
+    {"name":"teacher","number":16},
+    {"name":"course","number":12},
+    {"name":"score","number":4912}
+  ]
+}
